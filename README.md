@@ -9,7 +9,7 @@
 * Built a client facing API using flask 
 
 
-# [Project 2: Data Science Salary Estimator: Project Overview] (https://github.com/AdityaSagave/Customer-Churn-Prediction)
+# [Project 2: Data Science Salary Estimator: Project Overview](https://github.com/AdityaSagave/STATS6170-Statistical-Report)
 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
